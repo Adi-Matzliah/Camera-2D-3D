@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SixOverSix</string>
+    <string name="take_pic">Take A Picture</string>
+    <string name="description_info">Accelerometer Info</string>
+    <string name="request_permission">This sample needs camera permission.</string>
+    <string name="camera_error">This device doesn\'t support Camera2 API.</string>
+    <string name="camera_require_permission_error">You can\'t use camera without permission</string>
+    <string name="config_failed_msg">Configuration failed</string>
+    <string name="update_preview_error">Update preview error</string>
+    <string name="camera_bg">Camera Background</string>
+</resources>
