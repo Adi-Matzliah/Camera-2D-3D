@@ -8,4 +8,5 @@ Small modern android app based <b>MVP</b> architecture and bunch of great librar
 * <b>RXJava2</b> - Observer Pattern
 * <b>Dagger2</b> - Injection
 * <b>ButterKnife</b> - View Injection
+
 ![img](emulator.gif)
